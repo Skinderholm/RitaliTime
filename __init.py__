@@ -1,4 +1,4 @@
-DOMAIN = "hello_service"
+DOMAIN = "RitaliTime"
 
 ATTR_NAME = "name"
 DEFAULT_NAME = "World"
