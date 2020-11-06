@@ -1,1 +1,8 @@
-
+{
+  "domain": "RitaliTime",
+  "name": "RitaliTime",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}
